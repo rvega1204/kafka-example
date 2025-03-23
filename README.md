@@ -1,6 +1,6 @@
 # Kafka Example Project
 
-This project demonstrates the use of Apache Kafka for building distributed messaging systems. It includes examples of producing, consuming, and processing messages using Kafka.
+This essential project demonstrates the use of Apache Kafka for building distributed messaging systems. It includes examples of producing, consuming, and processing messages using Kafka.
 
 ## Features
 
@@ -19,7 +19,7 @@ This project demonstrates the use of Apache Kafka for building distributed messa
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/kafka-example.git
+    git clone https://github.com/rvega1204/kafka-example.git
     cd kafka-example
     ```
 
@@ -49,7 +49,7 @@ Update the `application.properties` file to configure Kafka broker, topic names,
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. It's free to update and modify, so enjoy!
 
 ## Acknowledgments
 
