@@ -14,7 +14,7 @@ This essential project demonstrates the use of Apache Kafka for building distrib
 - Java 8 or higher
 - Apache Kafka 4.0.0 installed locally or accessible remotely
 - Maven or Gradle for dependency management
-- Postman to send the POST request: http://localhost:8080/api/v1/messages
+- Postman to test the API POST request: http://localhost:8080/api/v1/messages
 
 ## Getting Started
 
